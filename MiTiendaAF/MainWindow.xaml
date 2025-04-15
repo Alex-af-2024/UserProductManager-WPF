@@ -1,0 +1,22 @@
+﻿<Window x:Class="MiTiendaAF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MiTiendaAF"
+        mc:Ignorable="d"
+        Title="Página Principal" Height="450" Width="800"
+        MinWidth="800" MinHeight="450"
+        MaxWidth="800" MaxHeight="450">
+    <!--Aquí agregué y center y cambié titulo-->
+    <Grid>
+        <Label x:Name="lblUsuario" Content="Ingrese su usuario" HorizontalAlignment="Center" Margin="0,99,0,0" VerticalAlignment="Top" Width="158" FontWeight="Bold" FontStyle="Italic" FontSize="14" Foreground="#FF2A5BF3"/>
+        <Label x:Name="lblContrasena" Content="Ingrese su contraseña" HorizontalAlignment="Center" Margin="0,183,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.105,1.928" Width="158" FontWeight="Bold" FontStyle="Italic" FontSize="14" Foreground="#FF2A5BF3"/>
+        <TextBox x:Name="txtUsuarioM" HorizontalAlignment="Center" Margin="0,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" Height="22"/>
+        <Button x:Name="btnAcceder" Content="INICIAR SESIÓN" HorizontalAlignment="Center" Margin="0,287,0,0" VerticalAlignment="Top" Height="46" Width="260" FontWeight="Bold" FontStyle="Italic" FontSize="14" Background="#FF5572E8" Foreground="#FFEFEFEF" Click="btnAcceder_Click"/>
+        <TextBox x:Name="txtContrasenaM" HorizontalAlignment="Center" Margin="0,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" Height="22"/>
+        <Button x:Name="btnSalir" Content="Salir de aplicación" HorizontalAlignment="Left" Margin="20,374,0,0" VerticalAlignment="Top" Height="32" Width="127" Background="#FFE4E07F" FontWeight="Bold" Foreground="#FF343ED6" Click="btnSalir_Click"/>
+
+    </Grid>
+</Window>    
+

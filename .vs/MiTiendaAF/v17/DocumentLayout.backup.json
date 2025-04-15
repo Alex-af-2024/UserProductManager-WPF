@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|c:\\users\\afran\\source\\repos\\mitiendaaf\\mitiendaaf\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\productoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\productoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\usuarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\usuarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\productoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\productoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|C:\\Users\\afran\\source\\repos\\MiTiendaAF\\mitiendaaf\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76211C60-E9F8-405B-925F-9A4FD789C5A2}|MiTiendaAF\\MiTiendaAF.csproj|solutionrelative:mitiendaaf\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\models\\Usuario.cs",
+              "RelativeDocumentMoniker": "MiTiendaAF\\models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\models\\Usuario.cs",
+              "RelativeToolTip": "MiTiendaAF\\models\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwLMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:06:18.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MiTiendaAF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MiTiendaAF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:55:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "MiTiendaAF\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\HomeView.xaml.cs",
+              "RelativeToolTip": "MiTiendaAF\\HomeView.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvysAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:24:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\ProductoView.xaml.cs",
+              "RelativeDocumentMoniker": "MiTiendaAF\\ProductoView.xaml.cs",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\ProductoView.xaml.cs",
+              "RelativeToolTip": "MiTiendaAF\\ProductoView.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAJAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:44:12.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\UsuarioView.xaml.cs",
+              "RelativeDocumentMoniker": "MiTiendaAF\\UsuarioView.xaml.cs",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\UsuarioView.xaml.cs",
+              "RelativeToolTip": "MiTiendaAF\\UsuarioView.xaml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:52:50.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MiTiendaAF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\MainWindow.xaml",
+              "RelativeToolTip": "MiTiendaAF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T18:55:51.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\HomeView.xaml",
+              "RelativeDocumentMoniker": "MiTiendaAF\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\HomeView.xaml",
+              "RelativeToolTip": "MiTiendaAF\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T22:09:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioView.xaml",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\UsuarioView.xaml",
+              "RelativeDocumentMoniker": "MiTiendaAF\\UsuarioView.xaml",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\UsuarioView.xaml",
+              "RelativeToolTip": "MiTiendaAF\\UsuarioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T22:33:58.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoView.xaml",
+              "DocumentMoniker": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\ProductoView.xaml",
+              "RelativeDocumentMoniker": "MiTiendaAF\\ProductoView.xaml",
+              "ToolTip": "C:\\Users\\afran\\source\\repos\\MiTiendaAF\\MiTiendaAF\\ProductoView.xaml",
+              "RelativeToolTip": "MiTiendaAF\\ProductoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T22:30:54.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

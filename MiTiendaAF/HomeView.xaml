@@ -1,0 +1,18 @@
+﻿<Window x:Class="MiTiendaAF.HomeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MiTiendaAF"
+        mc:Ignorable="d"
+        Title="Inicio" Height="450" Width="800" 
+        MaxHeight="450" MaxWidth="800" 
+        MinHeight="450" MinWidth="800" WindowStartupLocation="CenterScreen" >
+    <Grid Background="White">
+        <Label x:Name="lblBienvenida" Content="Bienvenidos a mi nueva página" HorizontalAlignment="Left" Margin="316,59,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14" Background="{x:Null}" Foreground="#FF2768EA"/>
+        <Button x:Name="btnCerrarSesion" Content="Cerrar Sesión" HorizontalAlignment="Left" Margin="653,352,0,0" VerticalAlignment="Top" Height="42" Width="106" Click="btnCerrarSesion_Click" Background="#FFE6DF40" FontWeight="Bold" RenderTransformOrigin="0.401,0.224"/>
+        <Button x:Name="btnAdminUsuarios" Content="Administración de Usuarios" HorizontalAlignment="Left" Margin="305,186,0,0" VerticalAlignment="Top" Height="41" Width="225" Background="#FFD9E4D0" FontWeight="Bold" FontStyle="Italic" Click="btnAdminUsuarios_Click"/>
+        <Button x:Name="btnProductos" Content="Productos" HorizontalAlignment="Left" Margin="305,122,0,0" VerticalAlignment="Top" Height="40" Width="225" Click="btnProductos_Click" Background="#FF598FCA" FontWeight="Bold" FontStyle="Italic"/>
+
+    </Grid>
+</Window>
